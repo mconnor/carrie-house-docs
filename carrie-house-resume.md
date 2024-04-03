@@ -1,85 +1,45 @@
-# CARRIE HOUSE
+# **CARRIE HOUSE**
+### *Navajo Artist, Builder, and Community Speaker*
 ## C HOUSE LLC
 
-- house.carrieh@gmail.com
-- POB 2906, Gallup, NM 87305
-- tel: (505) 879-9409
+- Email: house.carrieh@gmail.com
+- Address: POB 2906, Gallup, NM 87305
+- Tel: (505) 879-9409
 
-## WORK EXPERIENCE
+## **WORK EXPERIENCE**
 
-- 2023 – Featured in _The Ark of Oblivion,_ Wicked Delicate Films, Maine
-- 2020 – Present: Community Land Use Planning Committee Member, Navajo Nation, Oak Springs, AZ
+- 2023 – Featured Artist, _The Ark of Oblivion_, Wicked Delicate Films, Maine
+- 2020 – Present: Member, Community Land Use Planning Committee, Navajo Nation, Oak Springs, AZ
 - 2019 – Present: Writer, Director, Producer, _Diyin ~ Holy_ (post-production), Carrie House Film, Gallup, NM
-- 2018 – Associate Producer, _Return Singing Wolf,_ Documentaries Santa Fe, NM
-- 2016 – Present: Associate Planner III, Northwest New Mexico Council of Governments, Gallup, NM
-- 2016 – Production Assistant, Brunson Project, ABC Television (NYC based), Santa Fe, NM
-- 2015 – Truck Driver, Franklin’s Earthmoving Inc., Albuquerque, NM
-- 2015 – Production Assistant,**** Art Department, _The Bachelor,_ ABC Television, NM
-- 2014 – Archivist, Marilyn Wood Center for Celebrations Inc., Santa Fe, NM
-- 2014 – Intern, _A Thousand Voices,_ Silver Bullet Productions, Santa Fe, NM
-- 2013 – Production Assistant, Buffalo Ranch commercial, Ligist Film (Sweden), Abiqui, NM
-- 2009-2013: Geographic Information Systems Specialist, Division of Community Development ~ Addressing & Division of Natural Resources ~ Water Management Branch, Navajo Nation, Window Rock, AZ
-- 2008 – Photogrammetric Assistant, Survey Mapping GIS, Towill Inc., San Francisco, CA
+- 2016 – Present: Associate Planner, Northwest New Mexico Council of Governments, emphasizing Navajo community development, Gallup, NM
 
-## MEDIA EXPERIENCE
+## **MEDIA EXPERIENCE**
 
-- Executive Director, Gallup Film Foundation LLC, 2005 - 2020
-- Executive Producer, Assistant Director, Location Script Editor, _Monster Slayer_ film, Gallup NM, 2016
-- Construction Supervisor, Shoot The Stars: Season 4 film production, Garson Studios, Santa Fe, NM, 2015
-- Second Camera, _Doing The Sheep Good,_ a Teresa Montoya film, Navajo Nation, 2013
-- EPK/Background Actor, _Mr. Bitch,_ Mean Mug Films, Belle Allen Garson Studios, Santa Fe, NM, 2013
-- Director, Writer, Editor, Narrator, Cinematographer, Producer, _Shi’ Life_ Documentary, 2013
-- Film extra, _Hold the Sun,_ Directors Laura Zaylea and David Yun, Drama, San Francisco, CA, 2009
-- Writer, Director, Producer, Editor, Art Director, _Two Embrace_ Animation, 2009
-- Art Director, Producer, Editor, _I Am_ Documentary, 1997
+- Directed and produced multiple films highlighting Navajo culture and environmental issues, including _Monster Slayer_ and _Shi’ Life_.
+- Served as Executive Director for the Gallup Film Foundation, promoting indigenous filmmaking from 2005 to 2020.
 
-## PUBLICATIONS
+## **SELECTED PUBLICATIONS & PRESENTATIONS**
 
-- Works Cited in _Written by the Body: Lisa Tatonetti,_ U. Minnesota Press, 2021
-- Contributor, _Blessed By the Holy People Vol. 20,_ Journal of Lesbian Studies, Taylor & Francis, 2016
-- Contributor, _Sovereign Erotics,_ Driskill Justice Miranda Tatonetti, U. Arizona Press, 2011
-- Photographer, _Jimi’s Night,_ Red Mesa Review Volume 6, University of New Mexico, 1999
-- Editor, Writer, Layout, _Campus Voice,_ University of New Mexico Gallup Campus, 1996-1997
-- Editor, Writer, Layout, _T’iil Ch’in T’eel_ newsletter of Oaksprings Navajo community, AZ, 1995/96
-- Contributor, _Two-Spirit People,_ Jacobs Lang & Thomas, U. Illinois Press, 1994
+- Engaged in scholarly and community discussions on Navajo traditions, Two-Spirit identities, and indigenous environmental stewardship.
+- Published and cited in works focused on Navajo culture and LGBTQ+ studies, including _Sovereign Erotics_ and _Two-Spirit People_.
 
-## EDUCATION
+## **EDUCATION**
 
-- Vermont College of Fine Arts, Montpelier, VT – Master of Fine Arts in Film, October 2018
-- Santa Fe University of Art & Design, Santa Fe, NM – BFA Film; Visual Effects/Animation, May 2016 (Cum Laude, Robert Redford/Milagro Scholar)
-- University of New Mexico, Gallup, NM – Certificate, 2 years Drafting Technology, May 2004
-- UNM Gallup, NM – Associates of Applied Sciences, Electronic Publishing, May 1998
-- UNM – Associates of Applied Sciences, Construction Techni-Business, May 1997
-- University of Montana, Missoula, MT – Natural Resources Conservation, 4 years, 1987
+- MFA in Film, emphasizing Navajo storytelling and visual effects, Vermont College of Fine Arts, 2018
+- BFA in Film (Cum Laude), Santa Fe University of Art & Design, 2016, specializing in Visual Effects/Animation
 
-## PUBLIC LECTURES & INVITED TALKS
+## **SKILLS & CRAFTSMANSHIP**
 
-- RingCentral Webinar, Indigenous Group & Rainbow Alliance (Human Resource): _Two-Spirit,_ 2023
-- Indigenous Cultural Arts Festival, Albuquerque, NM: Art Behind Cinema, IPCC, 2022
-- Indiana University, PA: Contemporary Two Spirit, Native American Awareness Council/Social Equity, 2019/2020
-- Cottonwood Gulch – South Valley Preparatory School 8th Grade, Albuquerque, NM: _Why Wilderness?_ 2019
-- Sexual Assault Services of Northwest New Mexico, Gallup, NM: Youth Digital Storytelling Workshop, Domestic Violence/Sexual Abuse Symposium, 2018
-- Commission on Navajo Women, the Navajo Nation Human Rights Commission & the Coalition for Navajo Equality: Honorable Guest Speaker, _Diyin ‘Adaosiskéés – I am a Sacred Being,_ Symposium, 2018
-- Cottonwood Gulch Foundation, AZ/NM: Eco-Cultural Preservation Workshops, 2013-Present
-- Mandela International Magnet School 7th Grade, Santa Fe, NM: Dine Culture & History, 2015
-- Gallup McKinley County School Young Authors Conference, Monster Slayer Project, 2014
-- Terra Madre Salone del Gusto, Torino, Italy: Small Scale Meat Consumption, 2012
+- **Creative Production:** Adobe Creative Suite, Final Cut Pro, AVID, MAYA 3D, and traditional Navajo artistry.
+- **Technical Skills:** Proficient in GIS, AutoCAD, and environmental surveying techniques.
+- **Artistic Builder:** Experienced in sculpture and installation art, set construction, and cultural preservation.
 
-## SKILLS
+## **COMMUNITY ENGAGEMENT & LEADERSHIP**
 
-- **Software:** Microsoft 365/Office Suite (Word, Excel, Outlook, PowerPoint, Publisher), Adobe Creative Suite (Photoshop, InDesign, Premiere, Acrobat Pro, After Effects), ESRI ArcGIS Pro/Online, QGIS/GUPS, Final Draft, AVID (2018), Pro Tools, Final Cut Pro, AutoDesk, AutoCAD, MAYA 3D, Movie Magic
-- **Equipment:** Panasonic DVX150, Sony DV2100, Black Magic, Bolex 16mm, Ikegami, Canon 80D & Mark III, Topcon FC 5000, Trimble Geo 7, Survey Transit tools, stationary/portable gas and electric power tools, Backhoe Loaders, Forklifts, Paver-Roller Compactors, Excavators, Arc & Mig Welders, Chainsaws, Radio telemetry, Film and video production equipment
-- **License:** Commercial Driver’s License Class A (Doubles/Triples, Tank, Passenger), NM General Building Contractor GB-98, C House LLC #6310273
+- Active speaker and advocate for Navajo cultural preservation, environmental conservation, and Two-Spirit rights.
+- Organized and led workshops on digital storytelling, Navajo history, and ecological sustainability.
 
-## ADDITIONAL EXPERIENCE
+## **ART INSTALLATIONS**
 
-> Hot Shot Fire Fighter (Montana, Arizona), Fire Engine Foreman, Wilderness Ranger, Trail Designer/Builder (Bob Marshall Wilderness, Zuni Mountains), Wildlife Biologist Technician (Smithsonian Institution/US Fish & Wildlife), Truck Driver/Heavy Equipment Operator (Gallup Sand & Gravel, Franklin’s Earthmoving Inc.), Bus Driver (Window Rock Unified School), Warehouse Foreman (Murphy Builders), Navajo churro sheep Producer, Agriculturalist, Graphic Designer, Cottonwood Gulch Expeditions Board of Trustees
+- Curated and contributed to art installations focused on Navajo heritage and environmental themes, including the Outdoor Vision Fest and Bioneers Conference.
 
-## OFFICIAL FILM SELECTION
-
-> Senator John Pinto Memorial Fund Award – Film Grant (New Mexico Film Office), American Indian Film Festival, San Francisco International LGTQ Film Festival, Queer Women of Color Film Festival, International Wildlife Film Festival, U. Oregon Queer Film Festival, Gallup Intercultural Film Festival, Bioneers Moving Images Film Festival, Flagstaff Mountain Film Festival, Santa Fe Film Festival, Skins Fest, California’s American Indian & Indigenous Film Festival, Comic In Film Festival, Comic Con, Indigenous Cultural Arts Festival, South by Southwest Film and TV Festival
-
-## ART INSTALLATIONS
-
-- 2014 – 2016: Outdoor Vision Fest, Santa Fe University of Art & Design, Santa Fe, NM
-- 2008 & 2009: Sculpture installation assistant for Wendy Domster, Bioneers Conference, San Rafael, CA
