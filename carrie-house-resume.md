@@ -53,6 +53,7 @@
 - University of Montana, Missoula, MT – Natural Resources Conservation, 4 years, 1987
 
 ## PUBLIC LECTURES & INVITED TALKS
+
 - RingCentral Webinar, Indigenous Group & Rainbow Alliance (Human Resource): "Two-Spirit," 2023
 - Indigenous Cultural Arts Festival, Albuquerque, NM: Art Behind Cinema, IPCC, 2022
 - Indiana University, PA: Contemporary Two Spirit, Native American Awareness Council/Social Equity, 2019/2020
@@ -65,14 +66,17 @@
 - Terra Madre Salone del Gusto, Torino, Italy: Small Scale Meat Consumption, 2012
 
 ## SKILLS
+
 - **Software:** Microsoft 365/Office Suite (Word, Excel, Outlook, PowerPoint, Publisher), Adobe Creative Suite (Photoshop, InDesign, Premiere, Acrobat Pro, After Effects), ESRI ArcGIS Pro/Online, QGIS/GUPS, Final Draft, AVID (2018), Pro Tools, Final Cut Pro, AutoDesk, AutoCAD, MAYA 3D, Movie Magic
 - **Equipment:** Panasonic DVX150, Sony DV2100, Black Magic, Bolex 16mm, Ikegami, Canon 80D & Mark III, Topcon FC 5000, Trimble Geo 7, Survey Transit tools, stationary/portable gas and electric power tools, Backhoe Loaders, Forklifts, Paver-Roller Compactors, Excavators, Arc & Mig Welders, Chainsaws, Radio telemetry, Film and video production equipment
 - **License:** Commercial Driver’s License Class A (Doubles/Triples, Tank, Passenger), NM General Building Contractor GB-98, C House LLC #6310273
 
 ## ADDITIONAL EXPERIENCE
+
 - Hot Shot Fire Fighter (Montana, Arizona), Fire Engine Foreman, Wilderness Ranger, Trail Designer/Builder (Bob Marshall Wilderness, Zuni Mountains), Wildlife Biologist Technician (Smithsonian Institution/US Fish & Wildlife), Truck Driver/Heavy Equipment Operator (Gallup Sand & Gravel, Franklin’s Earthmoving Inc.), Bus Driver (Window Rock Unified School), Warehouse Foreman (Murphy Builders), Navajo churro sheep Producer, Agriculturalist, Graphic Designer, Cottonwood Gulch Expeditions Board of Trustees
 
 ## OFFICIAL FILM SELECTION
+
 - Senator John Pinto Memorial Fund Award – Film Grant (New Mexico Film Office), American Indian Film Festival, San Francisco International LGTQ Film Festival, Queer Women of Color Film Festival, International Wildlife Film Festival, U. Oregon Queer Film Festival, Gallup Intercultural Film Festival, Bioneers Moving Images Film Festival, Flagstaff Mountain Film Festival, Santa Fe Film Festival, Skins Fest, California’s American Indian & Indigenous Film Festival, Comic In Film Festival, Comic Con, Indigenous Cultural Arts Festival, South by Southwest Film and TV Festival
 
 ## ART INSTALLATIONS
